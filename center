@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		section{
+			height: 100vh;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+		#one{
+			width: 10%;
+		}
+	</style>
+</head>
+<body>
+	<section>
+		<div id="one">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt</p>
+			<button>know more..</button>
+		</div>
+	</section>
+</body>
+</html>
